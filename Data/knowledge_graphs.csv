@@ -1,0 +1,26 @@
+Graph,Source,Target
+Wolffia Study,Wolffia globosa,Microgravity
+Wolffia Study,Wolffia globosa,Partial gravity (Moon)
+Wolffia Study,Wolffia globosa,Hypergravity
+Wolffia Study,Microgravity,Random Positioning Machine (RPM)
+Wolffia Study,Partial gravity (Moon),Random Positioning Machine (RPM)
+Wolffia Study,Hypergravity,Large-diameter centrifuge
+Wolffia Study,Wolffia globosa,Growth rate
+Wolffia Study,Wolffia globosa,Morphological traits
+Wolffia Study,Growth rate,Space crop
+Wolffia Study,Morphological traits,Space crop
+Wolffia Study,Space crop,BLSS
+Wolffia Study,Space crop,Sustainable food production
+Brain Study,Microgravity,Brain
+Brain Study,Brain,Transcriptomics
+Brain Study,Transcriptomics,Gene Expression
+Brain Study,Gene Expression,Neuroplasticity
+Brain Study,Brain,Animal model
+Microbiome Study,Microgravity,Microbiome
+Microbiome Study,Microbiome,Gut health
+Microbiome Study,Gut health,Immune response
+Microbiome Study,Microbiome,Animal model
+Serum Study,Microgravity,Serum metabolomics
+Serum Study,Serum metabolomics,Metabolic pathways
+Serum Study,Metabolic pathways,Energy balance
+Serum Study,Serum metabolomics,Biomarkers
