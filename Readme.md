@@ -14,7 +14,7 @@ It is a **Dynamic AI Dashboard** that helps users explore and understand **NASA 
 - Visual timelines and comparisons  
 
 ## 🔗 Prototype
-👉 [Figma Design](YOUR_PUBLIC_FIGMA_LINK)
+👉 [Figma Design](https://www.figma.com/proto/9BAIhFb7NyQJ7kDuFUd0t6/BioOrbit?node-id=0-1&t=U59GFUkbV5CkHL5Z-1)
 
 ## 👩‍🚀 Team Stellar Sparks
 - Ayushi Rai  
