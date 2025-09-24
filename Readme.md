@@ -27,11 +27,8 @@ The task: Build a dynamic dashboard using AI, knowledge graphs, and other tools 
 
 | Name | Role |
 |------|------|
-| [Ayushi Rai | Frontend & UI/UX, Prototype Integration , Research Validation &
- Documentation|
-| Apoorva Nema | Data Collection, Preprocessing, AI Pipeline , Backend & Database
- Management
- |
+| [Ayushi Rai | Frontend & UI/UX, Prototype Integration , Research Validation & Documentation|
+| Apoorva Nema | Data Collection, Preprocessing, AI Pipeline , Backend & DatabaseManagement|
 
 ---
 
@@ -44,7 +41,7 @@ The task: Build a dynamic dashboard using AI, knowledge graphs, and other tools 
 ---
 
 ## Technologies Used
-- **Frontend/UI:** Figma (prototype), planned React.js/HTML-CSS for functional dashboard.
+- **Frontend/UI:** Figma (prototype), planned React.js for functional dashboard.
 - **Backend/AI:** Python, NLP.
 - **Data:** NASA Space Life Sciences Library, CSV of selected publications.
 - **Knowledge Graph:** Neo4j / visualization tools for entity relationships.
@@ -52,7 +49,7 @@ The task: Build a dynamic dashboard using AI, knowledge graphs, and other tools 
 ---
 
 ## How to Use
-1. Open the **Figma link** for interactive UI prototype.[BioOrbit Prototype]((https://www.figma.com/proto/9BAIhFb7NyQJ7kDuFUd0t6/BioOrbit?node-id=0-1&t=U59GFUkbV5CkHL5Z-1))
+1. Open the **Figma link** for interactive UI prototype.[BioOrbit Prototype](https://www.figma.com/proto/9BAIhFb7NyQJ7kDuFUd0t6/BioOrbit?node-id=0-1&t=U59GFUkbV5CkHL5Z-1)
 2. Explore experiments in **Explore Mode** (easy, visual summaries).  
 3. Switch to **Research Mode** for advanced filtering, detailed summaries, and knowledge graph exploration.  
 4. Sample experiments include “Plant Growth under Microgravity,” with facts, visuals, and relationships.
@@ -75,5 +72,6 @@ The task: Build a dynamic dashboard using AI, knowledge graphs, and other tools 
 ---
 
 ## Contact
-Team Stellar Sparks – GitHub: [https://github.com/Ayushirai05]  
+Team Stellar Sparks – GitHub| Ayushi Rai : [https://github.com/Ayushirai05] 
+                      Apoorva Nema: 
 BioOrbit – NASA Space Apps Challenge 2025 – Jabalpur Local Event
