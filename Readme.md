@@ -73,5 +73,5 @@ The task: Build a dynamic dashboard using AI, knowledge graphs, and other tools 
 
 ## Contact
 Team Stellar Sparks – GitHub| Ayushi Rai : [https://github.com/Ayushirai05] 
-                      Apoorva Nema: 
+                      Apoorva Nema:[ https://github.com/Apoorvanema]
 BioOrbit – NASA Space Apps Challenge 2025 – Jabalpur Local Event
