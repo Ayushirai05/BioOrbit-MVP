@@ -27,7 +27,7 @@ The task: Build a dynamic dashboard using AI, knowledge graphs, and other tools 
 
 | Name | Role |
 |------|------|
-| [Ayushi Rai | Frontend & UI/UX, Prototype Integration , Research Validation & Documentation|
+| Ayushi Rai | Frontend & UI/UX, Prototype Integration , Research Validation & Documentation|
 | Apoorva Nema | Data Collection, Preprocessing, AI Pipeline , Backend & DatabaseManagement|
 
 ---
@@ -70,7 +70,6 @@ The task: Build a dynamic dashboard using AI, knowledge graphs, and other tools 
 - [Sample Publication CSV](https://github.com/jgalazka/SB_publications/blob/main/SB_publication_PMC.csv)
 
 ---
-
 ## Contact
 Team Stellar Sparks – GitHub| Ayushi Rai : [https://github.com/Ayushirai05] 
                       Apoorva Nema:[ https://github.com/Apoorvanema]
